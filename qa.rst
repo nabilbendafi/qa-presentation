@@ -1,4 +1,4 @@
-.. image:: html5css3/thirdparty/revealjs/css/images/vague-top.png
+.. image:: res/vague-top.png
 
 QA
 ==

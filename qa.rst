@@ -52,6 +52,7 @@ Beginning ...
 
   * Daily Standup meeting
   * Test plan creation/execution
+  * Feature demonstration
   * Automate regression tests
 
 ... End
